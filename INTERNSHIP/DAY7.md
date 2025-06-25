@@ -30,7 +30,10 @@ https://www.youtube.com/watch?v=9i0c5TvPoPc&list=PLBt8Du9dZwKOPG4r2D0d02fstHiOzH
    - R = Read -> อ่าน/แสดง ข้อมูล
    - U = Update -> แก้ไขข้อมูล
    - D = Delete ->  ลบข้อมูล
- 
+ ```bash
+https://www.youtube.com/watch?v=9i0c5TvPoPc&list=PLBt8Du9dZwKOPG4r2D0d02fstHiOzHsG_
+
+```
      
 ---
 
