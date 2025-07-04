@@ -20,7 +20,7 @@
 - เรียนรู้การออกแบบ UI
 - เรียนรู้การดึงข้อมูล
 - ดูเรื่องแนวทางการใช้ Git Rebase แทนการ Merge 
-   ``` push
+   ``` bash
    https://www.youtube.com/watch?v=M9UeLucSMdw
   ```
 
