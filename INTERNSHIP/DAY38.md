@@ -6,7 +6,7 @@
 
 ## 📝 สิ่งที่ได้ทำในวันนี้
 ได้รับมอบหมายให้สร้าง Dialog สำหรับการ Insert, Update, Delete Workspace
-
+## Edit
 ![Image edit](images/screenshotedit2.png)
-
+## Delete
 ![Image delete](images/screenshotdelete1.png)
