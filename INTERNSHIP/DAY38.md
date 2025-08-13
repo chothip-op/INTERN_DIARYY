@@ -9,8 +9,10 @@
 
 ## Insert
 
-## Edit
-![Image edit](images/screenshotedit2.png)
+
 ## Delete
 ![Image delete](images/screenshotdelete1.png)
+
+## Edit
+![Image edit](images/screenshotedit2.png)
 
