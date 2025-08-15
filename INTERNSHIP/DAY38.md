@@ -8,7 +8,7 @@
 - ได้รับมอบหมายให้สร้าง Dialog สำหรับการ Insert, Update, Delete Workspace
 
 ## Insert
-
+![Image Insert](images/screenshotinsert.png)
 
 ## Delete
 ![Image delete](images/screenshotdelete.png)
